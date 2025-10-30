@@ -6,7 +6,6 @@ This container is a stand-in till there is native support for `--exit-on-unhealt
 
 ## Supported tags and Dockerfile links
 - [`latest` (*Dockerfile*)](https://github.com/infra7ti/docker-autoheal/blob/main/Dockerfile)
-- [`1.3.0` (*Dockerfile*)](https://github.com/willfarrell/docker-autoheal/blob/1.3.0/Dockerfile)
 
 
 ![](https://img.shields.io/docker/pulls/infra7/autoheal "Total docker pulls") [![](https://images.microbadger.com/badges/image/infra7/autoheal.svg)](http://microbadger.com/images/infra7/autoheal "Docker layer breakdown")
